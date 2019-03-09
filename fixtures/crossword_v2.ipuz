@@ -1,0 +1,1673 @@
+{
+  "copyright": "© 2018",
+  "solution": [
+    [
+      "L",
+      "E",
+      "T",
+      "I",
+      "T",
+      "B",
+      "E",
+      "#",
+      "U",
+      "S",
+      "M",
+      "A",
+      "#",
+      "M",
+      "E",
+      "S",
+      "H",
+      "#",
+      "T",
+      "M",
+      "Z"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "S",
+      "H",
+      "O",
+      "T",
+      "#",
+      "R",
+      "E",
+      "A",
+      "N",
+      "I",
+      "M",
+      "A",
+      "T",
+      "E",
+      "#",
+      "O",
+      "U",
+      "I"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "S",
+      "O",
+      "N",
+      "A",
+      "L",
+      "I",
+      "N",
+      "C",
+      "O",
+      "M",
+      "E",
+      "T",
+      "A",
+      "X",
+      "#",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "I",
+      "S",
+      "R",
+      "#",
+      "U",
+      "N",
+      "L",
+      "O",
+      "A",
+      "D",
+      "#",
+      "N",
+      "A",
+      "S",
+      "A",
+      "L",
+      "#",
+      "I",
+      "S",
+      "M",
+      "#"
+    ],
+    [
+      "N",
+      "C",
+      "A",
+      "A",
+      "#",
+      "#",
+      "#",
+      "U",
+      "H",
+      "U",
+      "H",
+      "#",
+      "#",
+      "#",
+      "T",
+      "E",
+      "S",
+      "T",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "G",
+      "U",
+      "N",
+      "B",
+      "O",
+      "A",
+      "T",
+      "#",
+      "#",
+      "P",
+      "O",
+      "L",
+      "Y",
+      "M",
+      "O",
+      "R",
+      "P",
+      "H",
+      "O",
+      "U",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "U",
+      "N",
+      "P",
+      "O",
+      "C",
+      "O",
+      "#",
+      "S",
+      "E",
+      "E",
+      "I",
+      "N",
+      "#",
+      "R",
+      "I",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "S",
+      "K",
+      "A",
+      "T",
+      "E",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "P",
+      "A",
+      "R",
+      "K",
+      "#",
+      "Z",
+      "I",
+      "N",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "T",
+      "#",
+      "#",
+      "L",
+      "I",
+      "D",
+      "O",
+      "#",
+      "#",
+      "#",
+      "E",
+      "V",
+      "E",
+      "N",
+      "K",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "T",
+      "H",
+      "E",
+      "L",
+      "S",
+      "#",
+      "R",
+      "E",
+      "Z",
+      "O",
+      "N",
+      "E",
+      "#",
+      "A",
+      "L",
+      "G",
+      "#",
+      "R",
+      "N",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "R",
+      "I",
+      "C",
+      "A",
+      "N",
+      "R",
+      "E",
+      "V",
+      "O",
+      "L",
+      "U",
+      "T",
+      "I",
+      "O",
+      "N",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "T",
+      "A",
+      "E",
+      "#",
+      "F",
+      "A",
+      "X",
+      "#",
+      "S",
+      "N",
+      "O",
+      "W",
+      "I",
+      "N",
+      "#",
+      "G",
+      "N",
+      "O",
+      "S",
+      "I",
+      "S"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "V",
+      "E",
+      "R",
+      "E",
+      "D",
+      "#",
+      "#",
+      "#",
+      "A",
+      "N",
+      "D",
+      "S",
+      "#",
+      "#",
+      "D",
+      "E",
+      "C",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "E",
+      "F",
+      "F",
+      "#",
+      "I",
+      "B",
+      "E",
+      "G",
+      "Y",
+      "O",
+      "U",
+      "R",
+      "P",
+      "A",
+      "R",
+      "D",
+      "O",
+      "N"
+    ],
+    [
+      "N",
+      "U",
+      "T",
+      "S",
+      "O",
+      "#",
+      "A",
+      "S",
+      "O",
+      "N",
+      "E",
+      "#",
+      "R",
+      "E",
+      "T",
+      "I",
+      "N",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "T",
+      "R",
+      "I",
+      "C",
+      "K",
+      "P",
+      "O",
+      "N",
+      "Y",
+      "#",
+      "#",
+      "A",
+      "N",
+      "O",
+      "M",
+      "A",
+      "L",
+      "Y"
+    ],
+    [
+      "I",
+      "N",
+      "A",
+      "R",
+      "M",
+      "O",
+      "R",
+      "#",
+      "#",
+      "#",
+      "Z",
+      "E",
+      "E",
+      "S",
+      "#",
+      "#",
+      "#",
+      "A",
+      "L",
+      "E",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "M",
+      "Y",
+      "#",
+      "W",
+      "O",
+      "R",
+      "S",
+      "E",
+      "#",
+      "R",
+      "A",
+      "I",
+      "L",
+      "O",
+      "N",
+      "#",
+      "A",
+      "N",
+      "N"
+    ],
+    [
+      "E",
+      "M",
+      "U",
+      "#",
+      "C",
+      "A",
+      "B",
+      "E",
+      "R",
+      "N",
+      "E",
+      "T",
+      "S",
+      "A",
+      "U",
+      "V",
+      "I",
+      "G",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "L",
+      "E",
+      "S",
+      "#",
+      "I",
+      "N",
+      "A",
+      "P",
+      "I",
+      "C",
+      "K",
+      "L",
+      "E",
+      "#",
+      "S",
+      "E",
+      "T",
+      "F",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "F",
+      "D",
+      "A",
+      "#",
+      "A",
+      "S",
+      "T",
+      "O",
+      "#",
+      "L",
+      "E",
+      "E",
+      "S",
+      "#",
+      "T",
+      "R",
+      "E",
+      "S",
+      "S",
+      "E",
+      "D"
+    ]
+  ],
+  "kind": ["http://ipuz.org/crossword#1"],
+  "author": "Jeff Eddings",
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      "#",
+      8,
+      9,
+      10,
+      11,
+      "#",
+      12,
+      13,
+      14,
+      15,
+      "#",
+      16,
+      17,
+      18
+    ],
+    [
+      19,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      20,
+      0,
+      0,
+      0,
+      21,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      22,
+      0,
+      0
+    ],
+    [
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 23
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      "#",
+      25,
+      0,
+      0
+    ],
+    [
+      26,
+      0,
+      0,
+      "#",
+      27,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      28,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      29,
+      0,
+      0,
+      "#"
+    ],
+    [
+      30,
+      0,
+      0,
+      31,
+      "#",
+      "#",
+      "#",
+      32,
+      0,
+      0,
+      33,
+      "#",
+      "#",
+      "#",
+      34,
+      0,
+      35,
+      0,
+      0,
+      0,
+      36
+    ],
+    [
+      37,
+      0,
+      0,
+      0,
+      38,
+      39,
+      40,
+      "#",
+      "#",
+      41,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 42
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 43
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 44
+      },
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      }
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      45,
+      0,
+      0,
+      0,
+      46,
+      47,
+      "#",
+      48,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      49,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      50,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 51
+      },
+      52,
+      0,
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 53
+      },
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      "#",
+      54,
+      0,
+      0,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      55,
+      0,
+      0,
+      0,
+      "#",
+      "#",
+      56,
+      0,
+      0,
+      0,
+      "#",
+      "#",
+      "#",
+      57,
+      58,
+      0,
+      0,
+      0,
+      59,
+      60,
+      61
+    ],
+    [
+      62,
+      0,
+      0,
+      0,
+      63,
+      64,
+      "#",
+      65,
+      0,
+      0,
+      66,
+      67,
+      68,
+      "#",
+      69,
+      0,
+      0,
+      "#",
+      70,
+      0,
+      0
+    ],
+    [
+      71,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      72,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      73,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      74,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0
+    ],
+    [
+      75,
+      0,
+      0,
+      "#",
+      76,
+      0,
+      0,
+      "#",
+      77,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      78,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      79,
+      0,
+      0,
+      80,
+      0,
+      0,
+      0,
+      81,
+      "#",
+      "#",
+      "#",
+      82,
+      0,
+      0,
+      83,
+      "#",
+      "#",
+      84,
+      0,
+      0,
+      0
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      85,
+      0,
+      0,
+      "#",
+      86,
+      87,
+      88,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 89
+      },
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 90
+      },
+      91,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0
+    ],
+    [
+      92,
+      93,
+      94,
+      0,
+      0,
+      "#",
+      95,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      96,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      97,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 98
+      },
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 99
+      },
+      "#",
+      "#",
+      100,
+      0,
+      0,
+      0,
+      101,
+      102,
+      103
+    ],
+    [
+      104,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      "#",
+      "#",
+      105,
+      0,
+      106,
+      107,
+      "#",
+      "#",
+      "#",
+      108,
+      0,
+      0,
+      0
+    ],
+    [
+      "#",
+      109,
+      0,
+      0,
+      "#",
+      110,
+      0,
+      111,
+      112,
+      113,
+      "#",
+      114,
+      0,
+      0,
+      115,
+      116,
+      117,
+      "#",
+      118,
+      0,
+      0
+    ],
+    [
+      119,
+      0,
+      0,
+      "#",
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 120
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      0,
+      0,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      121,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      122,
+      0,
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      },
+      {
+        "style": {"shapebg": "circle"},
+        "cell": 0
+      }
+    ],
+    [
+      123,
+      0,
+      0,
+      "#",
+      124,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      125,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      126,
+      0,
+      0,
+      "#",
+      127,
+      0,
+      0,
+      0,
+      "#",
+      128,
+      0,
+      0,
+      0,
+      "#",
+      129,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "origin": "CrossFire encoder v1",
+  "block": "#",
+  "title": "Hidden Camera",
+  "version": "http://ipuz.org/v2",
+  "empty": "0",
+  "dimensions": {
+    "width": 21,
+    "height": 21
+  },
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Bounding along"
+      ],
+      [
+        2,
+        "Romania's greatest composer of the opera \"Oedipe\""
+      ],
+      [
+        3,
+        "Starlord, for example"
+      ],
+      [
+        4,
+        "NASA platform"
+      ],
+      [
+        5,
+        "You, from a while ago"
+      ],
+      [
+        6,
+        "Beethoven's birthplace"
+      ],
+      [
+        7,
+        "List continuing words"
+      ],
+      [
+        8,
+        "Husband of Bathsheba before David"
+      ],
+      [
+        9,
+        "Mock"
+      ],
+      [
+        10,
+        "Pig (out)"
+      ],
+      [
+        11,
+        "Later"
+      ],
+      [
+        12,
+        "Fr. first ladies, typically"
+      ],
+      [
+        13,
+        "Stuff silly"
+      ],
+      [
+        14,
+        "More like open bags of chips"
+      ],
+      [
+        15,
+        "Cast a ___"
+      ],
+      [
+        16,
+        "\"Sorry, not ready for jokes yet\""
+      ],
+      [
+        17,
+        "Loose luau wear"
+      ],
+      [
+        18,
+        "Puberty concern"
+      ],
+      [
+        21,
+        "\"___ Lady\" (2017 Meghan Trainor hit)"
+      ],
+      [
+        24,
+        "Reed or Rawls"
+      ],
+      [
+        29,
+        "Cogito"
+      ],
+      [
+        31,
+        "Neighbor"
+      ],
+      [
+        33,
+        "OR building"
+      ],
+      [
+        35,
+        "Disclose unexpectedly"
+      ],
+      [
+        36,
+        "Follower of Mao"
+      ],
+      [
+        38,
+        "A"
+      ],
+      [
+        39,
+        "AMBER alert relative"
+      ],
+      [
+        40,
+        "Dummy"
+      ],
+      [
+        42,
+        "Cow patch"
+      ],
+      [
+        43,
+        "\"___ a wizard, Harry\""
+      ],
+      [
+        44,
+        "Baseball's Trout"
+      ],
+      [
+        46,
+        "Piled trail marker"
+      ],
+      [
+        47,
+        "They are placed before cooking"
+      ],
+      [
+        50,
+        "Athletic bottoms"
+      ],
+      [
+        51,
+        "Alaskan park or volcano"
+      ],
+      [
+        52,
+        "Close behind"
+      ],
+      [
+        53,
+        "Gross root"
+      ],
+      [
+        54,
+        "1983 Woody Allen role"
+      ],
+      [
+        58,
+        "Tank"
+      ],
+      [
+        59,
+        "Cut"
+      ],
+      [
+        60,
+        "First name of the atomic age"
+      ],
+      [
+        61,
+        "Applies"
+      ],
+      [
+        63,
+        "Tribble, for example"
+      ],
+      [
+        64,
+        "Gobble"
+      ],
+      [
+        66,
+        "Egg, at the start?"
+      ],
+      [
+        67,
+        "\"I don't think so\""
+      ],
+      [
+        68,
+        "\"Sense and Sensibility\" heroine"
+      ],
+      [
+        72,
+        "Swinger in \"The Shining\""
+      ],
+      [
+        73,
+        "Excessive"
+      ],
+      [
+        74,
+        "Campaign Obama nickname"
+      ],
+      [
+        80,
+        "Church room"
+      ],
+      [
+        81,
+        "Drive"
+      ],
+      [
+        83,
+        "Selena Gomez, e.g."
+      ],
+      [
+        87,
+        "Whack"
+      ],
+      [
+        88,
+        "Musicians Brian and Roger"
+      ],
+      [
+        89,
+        "Post-Millennial gp."
+      ],
+      [
+        90,
+        "Relative of post or tweet"
+      ],
+      [
+        91,
+        "Enero kicks it off"
+      ],
+      [
+        92,
+        "It's \"in\" team"
+      ],
+      [
+        93,
+        "Ghostwriters, typically"
+      ],
+      [
+        94,
+        "Gold-seekers from the west?"
+      ],
+      [
+        95,
+        "A careless one might be in for a fall"
+      ],
+      [
+        98,
+        "First caucausers"
+      ],
+      [
+        99,
+        "Dr. Seuss's turtle"
+      ],
+      [
+        101,
+        "Self-titled 1991 Canadian debut album"
+      ],
+      [
+        102,
+        "Rhyme for \"nevermore\""
+      ],
+      [
+        103,
+        "Wanted"
+      ],
+      [
+        106,
+        "Nurses"
+      ],
+      [
+        107,
+        "Rihanna collaborator on \"Diamonds\""
+      ],
+      [
+        111,
+        "Used car, maybe"
+      ],
+      [
+        112,
+        "Address in India"
+      ],
+      [
+        113,
+        "Env. inside"
+      ],
+      [
+        115,
+        "Crave"
+      ],
+      [
+        116,
+        "___ and out"
+      ],
+      [
+        117,
+        "Nick at ___"
+      ],
+      [
+        119,
+        "Northern toy maker"
+      ],
+      [
+        120,
+        "\"The Company\" in DC"
+      ],
+      [
+        121,
+        "Squeeze"
+      ],
+      [
+        122,
+        "Squeezes, for short"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Last Beatles studio album"
+      ],
+      [
+        8,
+        "DDE alma mater"
+      ],
+      [
+        12,
+        "Net"
+      ],
+      [
+        16,
+        "Gossip site"
+      ],
+      [
+        19,
+        "What Luke had in Star Wars"
+      ],
+      [
+        20,
+        "Turn, as in the undead"
+      ],
+      [
+        22,
+        "Non opposite"
+      ],
+      [
+        23,
+        "What you pay in Boston but not in Austin"
+      ],
+      [
+        25,
+        "Unlit"
+      ],
+      [
+        26,
+        "Sea of Galilee loc."
+      ],
+      [
+        27,
+        "Pour out"
+      ],
+      [
+        28,
+        "___ spray"
+      ],
+      [
+        29,
+        "Romantic ending?"
+      ],
+      [
+        30,
+        "Org. with bowls and brackets"
+      ],
+      [
+        32,
+        "\"Not a chance\""
+      ],
+      [
+        34,
+        "Skip"
+      ],
+      [
+        37,
+        "Not-so diplomatic diplomacy?"
+      ],
+      [
+        41,
+        "Variegated"
+      ],
+      [
+        45,
+        "Preferred amount of spicy salsa for the timid"
+      ],
+      [
+        48,
+        "Receive"
+      ],
+      [
+        49,
+        "Clear"
+      ],
+      [
+        50,
+        "Spot with bowls and pipes"
+      ],
+      [
+        54,
+        "Cab alternative"
+      ],
+      [
+        55,
+        "Power engineer or unit"
+      ],
+      [
+        56,
+        "Cruise deck"
+      ],
+      [
+        57,
+        "Level"
+      ],
+      [
+        62,
+        "Merman and Mertz"
+      ],
+      [
+        65,
+        "Make suitable for business"
+      ],
+      [
+        69,
+        "Trig. pre-req"
+      ],
+      [
+        70,
+        "Code material"
+      ],
+      [
+        71,
+        "Hamilton, for one"
+      ],
+      [
+        75,
+        "Cofounder of GE"
+      ],
+      [
+        76,
+        "Kind of paper"
+      ],
+      [
+        77,
+        "Strand at the chalet"
+      ],
+      [
+        78,
+        "Mystical knowledge"
+      ],
+      [
+        79,
+        "Plated"
+      ],
+      [
+        82,
+        "Common bonds"
+      ],
+      [
+        84,
+        "Art follower?"
+      ],
+      [
+        85,
+        "Capital of France?"
+      ],
+      [
+        86,
+        "\"Come again?\""
+      ],
+      [
+        92,
+        "Crackers"
+      ],
+      [
+        95,
+        "Together"
+      ],
+      [
+        96,
+        "The eyes have it?"
+      ],
+      [
+        97,
+        "Singularly talented one"
+      ],
+      [
+        100,
+        "Outlier"
+      ],
+      [
+        104,
+        "Suited"
+      ],
+      [
+        105,
+        "This puzzle has two"
+      ],
+      [
+        108,
+        "Shielded"
+      ],
+      [
+        109,
+        "Tan in books"
+      ],
+      [
+        110,
+        "Where bad can end up"
+      ],
+      [
+        114,
+        "Criticize harshly"
+      ],
+      [
+        118,
+        "Barack's mother Dunham"
+      ],
+      [
+        119,
+        "Sch. with Big Blue to the west"
+      ],
+      [
+        120,
+        "Red steak accompaniment, often"
+      ],
+      [
+        123,
+        "Guitarist Paul"
+      ],
+      [
+        124,
+        "Stuck"
+      ],
+      [
+        125,
+        "Ignite, with \"to\""
+      ],
+      [
+        126,
+        "HHS approver"
+      ],
+      [
+        127,
+        "Concerning"
+      ],
+      [
+        128,
+        "What you might find at the bottom of a 120-Across"
+      ],
+      [
+        129,
+        "Locked?"
+      ]
+    ]
+  }
+}

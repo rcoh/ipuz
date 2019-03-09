@@ -37,6 +37,7 @@ IPUZ_PUZZLEKINDS = {
         ),
         "validators": {
             1: IPUZ_CROSSWORD_VALIDATORS,
+            2: IPUZ_CROSSWORD_VALIDATORS
         },
     },
     "http://ipuz.org/fill": {

@@ -62,7 +62,7 @@ def validate_list_of_strings(field_name, field_data):
 
 
 def validate_list_of_lists(
-    field_name, field_data, element_name, validate_element
+        field_name, field_data, element_name, validate_element
 ):
     if (not isinstance(field_data, list) or
             any(not isinstance(e, list) for e in field_data)):
@@ -155,3 +155,17 @@ IPUZ_FIELD_VALIDATORS = {
         "volatile": validate_dict_of_strings,
     }
 }
+
+
+def validator_for(version, field):
+    MIN_VERSION = 1
+    while version >= MIN_VERSION:
+        v = IPUZ_FIELD_VALIDATORS.get(version, {}).get(field)
+        if v is not None:
+            return v
+        version -= 1
+
+    def noop(field, value):
+        pass
+
+    return noop

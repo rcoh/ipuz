@@ -127,6 +127,15 @@ class IPUZReadTestCase(IPUZBaseTestCase):
             puzzlekinds=["http://ipuz.org/crossword#1"]
         )
 
+    def test_crossword_v2(self):
+        with open("fixtures/crossword_v2.ipuz") as f:
+            data = f.read()
+
+        output = ipuz.read(data)
+        output_string = ipuz.write(output)
+        second_output = ipuz.read(output_string)
+        self.assertEqual(output, second_output)
+
 
 class IPUZFieldValidatorTestCase(IPUZBaseTestCase):
 

@@ -6,7 +6,7 @@ from ipuz.validators import (
     IPUZ_FIELD_VALIDATORS,
     validate_version,
     get_version_number,
-)
+    validator_for)
 
 IPUZ_VERSIONS = [
     1,
@@ -55,8 +55,7 @@ def read(data, puzzlekinds=None):
     version = get_version_number(json_data["version"])
 
     for field, value in json_data.items():
-        if field in IPUZ_FIELD_VALIDATORS[version]:
-            IPUZ_FIELD_VALIDATORS[version][field](field, value)
+        validator_for(version, field)(field, value)
 
     for kind in json_data["kind"]:
         if puzzlekinds is not None and kind not in puzzlekinds:

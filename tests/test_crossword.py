@@ -440,3 +440,4 @@ class IPUZSampleCrosswordTestCase(IPUZBaseTestCase):
     def test_clues_element_not_a_valid_clue_dict_invalid_location_values(self):
         self.puzzle["clues"] = {"Across": [{"location": [3, None]}]}
         self.validate("Invalid Clue in clues element found")
+
