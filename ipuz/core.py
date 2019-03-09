@@ -10,6 +10,7 @@ from ipuz.validators import (
 
 IPUZ_VERSIONS = [
     1,
+    2,
 ]
 IPUZ_MANDATORY_FIELDS = (
     "version",
